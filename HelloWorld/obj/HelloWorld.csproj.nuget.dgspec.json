@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Fabricio Diaz\\Documents\\Visual Studio 2019\\Projects\\HelloWorld\\HelloWorld.csproj": {}
+    "C:\\Users\\Fabricio Diaz\\Documents\\GitHub\\Hello-World-1-20\\HelloWorld\\HelloWorld.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Fabricio Diaz\\Documents\\Visual Studio 2019\\Projects\\HelloWorld\\HelloWorld.csproj": {
+    "C:\\Users\\Fabricio Diaz\\Documents\\GitHub\\Hello-World-1-20\\HelloWorld\\HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Fabricio Diaz\\Documents\\Visual Studio 2019\\Projects\\HelloWorld\\HelloWorld.csproj",
+        "projectUniqueName": "C:\\Users\\Fabricio Diaz\\Documents\\GitHub\\Hello-World-1-20\\HelloWorld\\HelloWorld.csproj",
         "projectName": "HelloWorld",
-        "projectPath": "C:\\Users\\Fabricio Diaz\\Documents\\Visual Studio 2019\\Projects\\HelloWorld\\HelloWorld.csproj",
+        "projectPath": "C:\\Users\\Fabricio Diaz\\Documents\\GitHub\\Hello-World-1-20\\HelloWorld\\HelloWorld.csproj",
         "packagesPath": "C:\\Users\\Fabricio Diaz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Fabricio Diaz\\Documents\\Visual Studio 2019\\Projects\\HelloWorld\\obj\\",
+        "outputPath": "C:\\Users\\Fabricio Diaz\\Documents\\GitHub\\Hello-World-1-20\\HelloWorld\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
